@@ -1,0 +1,6 @@
+-Made antialiasing way faster for use outside of exporting
+-Made default friction 0.05
+-Added texture mapping
+-Changed File Extension
+-Added GUI for all actions (You don't need to run in terminal)
+-Added exception handling
