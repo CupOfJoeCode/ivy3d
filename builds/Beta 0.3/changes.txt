@@ -1,0 +1,5 @@
+-Added file GUI for textures
+-Cleaned up source code
+-Fixed error typo
+-Fixed button sizes
+-Added PlaneXZ, PlaneXY, and PlaneYZ geometries
