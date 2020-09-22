@@ -1,0 +1,2 @@
+-Added object rotation
+-Fixed normals
