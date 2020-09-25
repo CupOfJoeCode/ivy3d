@@ -1,0 +1,5 @@
+Added sphere geometry
+Added better GUI with menus
+Added option to edit world and player values
+World and player values are now in scene files
+Choose directory for rendering video
