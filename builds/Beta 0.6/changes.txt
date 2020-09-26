@@ -1,0 +1,5 @@
+Added better sphere geometry
+Made external loader for loading OBJ files
+Faster z buffer sorting(Increases performance)
+Added orthographic projection(and the ability to switch between perspective/orthographic in the world menu)
+Added blender monkey
