@@ -16,7 +16,7 @@ import shapes
 
 pg.init() #Initialize pygame
 
-VERSION = "Beta 0.5" # Version
+VERSION = "Beta 0.6" # Version
 
 textFont = "font/opensans.ttf" # set default font
 
