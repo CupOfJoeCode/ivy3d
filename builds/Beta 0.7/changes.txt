@@ -1,0 +1,7 @@
+Added splash screen
+Added hitbox calculation so collision relies on geometry and not on mesh scale
+Added texture caching (drastically improved performance)
+Added smooth cube
+Removed blender monkey
+Fixed canceling render and canceling render video
+Added smooth shading on export
