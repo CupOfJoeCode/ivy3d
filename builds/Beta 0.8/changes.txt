@@ -4,5 +4,5 @@ Fixed flat shading export for video
 Added per object geometry instead of fixed geometries for objects
 Added mesh names
 Added OBJ file parser
-Added build in OBJ file loader
+Added built in OBJ file loader
 Removed change geometry button and instead added the option to select geometry when adding a new mesh
