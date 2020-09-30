@@ -1,7 +1,7 @@
 Added animations and animation editor
 Added safe load and save files using JSON instead of eval()
 Fixed flat shading export for video
-Add per object geometry instead of fixed geometries for objects
+Added per object geometry instead of fixed geometries for objects
 Added mesh names
 Added OBJ file parser
 Added build in OBJ file loader
