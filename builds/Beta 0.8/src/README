@@ -1,0 +1,16 @@
+Uses python 2.
+
+Dependecies:
+-pygame
+-math
+-random
+-time
+-glob
+-easygui
+-types
+-copy
+-json
+
+Built using pyinstaller (pip install pyinstaller)
+To build:
+pyinstaller main.py --onefile -w
