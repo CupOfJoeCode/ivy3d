@@ -19,7 +19,7 @@ import postprocess as post
 '''
 Made By Joe Janicki
 https://sites.google.com/view/joejanicki
-therealjoe2794@gmail.com
+joejanicki26@gmail.com
 
 Repository:
 https://github.com/CupOfJoeCode/ivy3d
